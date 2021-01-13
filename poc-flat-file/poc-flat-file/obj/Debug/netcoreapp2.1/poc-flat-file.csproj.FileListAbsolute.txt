@@ -1,0 +1,11 @@
+C:\Users\Komander\source\repos\poc-flat-file\poc-flat-file\bin\Debug\netcoreapp2.1\poc-flat-file.deps.json
+C:\Users\Komander\source\repos\poc-flat-file\poc-flat-file\bin\Debug\netcoreapp2.1\poc-flat-file.runtimeconfig.json
+C:\Users\Komander\source\repos\poc-flat-file\poc-flat-file\bin\Debug\netcoreapp2.1\poc-flat-file.runtimeconfig.dev.json
+C:\Users\Komander\source\repos\poc-flat-file\poc-flat-file\bin\Debug\netcoreapp2.1\poc-flat-file.dll
+C:\Users\Komander\source\repos\poc-flat-file\poc-flat-file\bin\Debug\netcoreapp2.1\poc-flat-file.pdb
+C:\Users\Komander\source\repos\poc-flat-file\poc-flat-file\obj\Debug\netcoreapp2.1\poc-flat-file.csprojAssemblyReference.cache
+C:\Users\Komander\source\repos\poc-flat-file\poc-flat-file\obj\Debug\netcoreapp2.1\poc-flat-file.csproj.CoreCompileInputs.cache
+C:\Users\Komander\source\repos\poc-flat-file\poc-flat-file\obj\Debug\netcoreapp2.1\poc-flat-file.AssemblyInfoInputs.cache
+C:\Users\Komander\source\repos\poc-flat-file\poc-flat-file\obj\Debug\netcoreapp2.1\poc-flat-file.AssemblyInfo.cs
+C:\Users\Komander\source\repos\poc-flat-file\poc-flat-file\obj\Debug\netcoreapp2.1\poc-flat-file.dll
+C:\Users\Komander\source\repos\poc-flat-file\poc-flat-file\obj\Debug\netcoreapp2.1\poc-flat-file.pdb

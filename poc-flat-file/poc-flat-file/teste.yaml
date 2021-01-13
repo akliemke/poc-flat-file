@@ -1,0 +1,17 @@
+﻿campos: 
+  - :
+    nome: Name
+    tamanho: 5
+    tipo: 4
+  - :
+    nome: IQ
+    tamanho: 3
+    tipo: 4  
+  - :
+    nome: BirthDate
+    tamanho: 10
+    tipo: DateTime
+  - :
+    nome: BirthDate
+    tamanho: 10
+    tipo: Decimal
